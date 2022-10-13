@@ -8,3 +8,6 @@ void reverse(int arr[]){
     end--;
   }
 }
+
+Time Complexity : O(n);
+Space Complexity : O(1);
